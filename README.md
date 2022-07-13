@@ -10,4 +10,4 @@ Reflection: I can now add lists fairly easily, <strong> and <em> are simple conc
 
 
 
-Reflection 2:
+Reflection 2: I am now better at linking different pages within the website I'm making, I am better at understanding where I am within my directories, and I am better at creating the html boilerplate. I am very proud of myself. 
